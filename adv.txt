@@ -1,1 +1,12 @@
-
+*** Benefits of Using C# ***
+>>> Faster development time <<<
+C# has several features that allow developers to code faster than with other languages.
+>>> High scalability <<<
+The static coding nature of C# turns all its programs into reliable products that can be easily tweaked and changed.
+>>> Object-oriented <<<
+C# has embraced object-oriented programming in such a way that it might be the language that better leverages it.
+>>> Gentle learning curve <<<
+As a high-level language, C# is very easy to learn and understand. 
+And that’s without considering the many built-in features that are very simple to use.
+>>> Big community <<<
+C# is one of the most widely used languages in the world, which means that there are many C# developers ready to lend you a hand with it. 
